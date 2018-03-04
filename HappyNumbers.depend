@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1519839585 source:c:\users\corozco\onedrive\documentos\cucei\6° semestre\computación tolerante a fallas\practica 1\happynumbers\main.cpp
+	<iostream>
+	"list.h"
+	"node.h"
+	"num.h"
+	<stdio.h>
+
+1519519861 source:c:\users\corozco\onedrive\documentos\cucei\6° semestre\computación tolerante a fallas\practica 1\happynumbers\node.cpp
+	"node.h"
+
+1519519826 c:\users\corozco\onedrive\documentos\cucei\6° semestre\computación tolerante a fallas\practica 1\happynumbers\node.h
+	"Num.h"
+
+1519788960 c:\users\corozco\onedrive\documentos\cucei\6° semestre\computación tolerante a fallas\practica 1\happynumbers\num.h
+
+1519789292 source:c:\users\corozco\onedrive\documentos\cucei\6° semestre\computación tolerante a fallas\practica 1\happynumbers\num.cpp
+	"num.h"
+
+1519550876 source:c:\users\corozco\onedrive\documentos\cucei\6° semestre\computación tolerante a fallas\practica 1\happynumbers\list.cpp
+	"list.h"
+	"num.h"
+	"stdlib.h"
+	<fstream>
+
+1519550782 c:\users\corozco\onedrive\documentos\cucei\6° semestre\computación tolerante a fallas\practica 1\happynumbers\list.h
+	<iostream>
+	<string>
+	"node.h"
+	"num.h"
+	<fstream>
+
